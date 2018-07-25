@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/nvidia/repos/video_analyser/publish/data'
+let g:netrw_dirhist_2='/home/nvidia/repos/video_analyser/stream_processor/include'
+let g:netrw_dirhist_3='/home/nvidia/repos/thirdlib.bak/glog/include'
+let g:netrw_dirhist_4='/home/nvidia/workspace/yuandanfei/license2/include'
